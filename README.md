@@ -1,12 +1,27 @@
-# Portfolio
+# List of all competitions i've competed in with placement and score report if available
 
-## List of all certifications both offical and unoffical.
+## NCL CyberSEED 2024 (Team Leader)
+- Score 1395/2400
+- Completion 75.4%
+- Placement 30/165
+## NSF Jumpstart CTF (Solo)
+- Score 2285/7,410
+- Completion 66.6%
+- Placement 7th Overall
+## NCAE CyberGames (Team Leader)
+- Placement 2nd
+## Vivid Compeition (Team Leader)
+- Score 1966/2205
+- Placement 16/107
+- Qualified for Finals October 6-9 Marriot St Louis Grand
+
+# List of all certifications both offical and unoffical.
 
 ### All certifications that give certification in photo or document are attached.
 
 - Fortinet Level 5 Training
 
-## List of all completed hackthebox paths and boxes:
+# List of all completed hackthebox paths and boxes:
 ### Write up attached for boxes inside folder (work in progress)
 
 ### Academy 
