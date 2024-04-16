@@ -3,8 +3,11 @@
 ## Write up attached for boxes
 
 ### Academy 
-- Penetration Tester
-
+- Web Proxies
+- Burpsuite
+- Web Fuzzing
+- Login Brute Forcing
+- 
 ### Labs
 - Bombs Landed (Reversing)
 - Bizness (Root)
