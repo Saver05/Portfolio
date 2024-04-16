@@ -7,7 +7,7 @@
 - Fortinet Level 5 Training
 
 ## List of all completed hackthebox paths and boxes:
-### Write up attached for boxes inside folder
+### Write up attached for boxes inside folder (work in progress)
 
 ### Academy 
 - Web Proxies
