@@ -10,7 +10,13 @@
 - Placement 7th Overall
 ## NCAE CyberGames (Team Leader)
 - Placement 2nd
-## Vivid Compeition (Team Leader)
+## Vivid Competition (Team Leader)
 - Score 1966/2205
 - Placement 16/107
 - Qualified for Finals October 6-9 Marriot St Louis Grand
+## Vivid Competition Finals (Team Leader)
+- Placement 12/16
+## Mountain West Cyber Challenge 2024
+- Score 1275/5475
+- Completion 22%
+- Placement 12/~200
