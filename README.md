@@ -25,7 +25,7 @@
 
 ### All certifications that give certification in photo or document are attached.
 
-- SANS GFACT (In Progress)
+- SANS GFACT
 # List of all completed hackthebox paths and boxes:
 ### Write up attached for boxes inside folder (work in progress)
 
