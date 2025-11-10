@@ -1,4 +1,4 @@
-#List of all competitions i've competed in with placement and score report if available
+# List of all competitions i've competed in with placement and score report if available
 
 ## NCL CyberSEED 2024 (Team Leader)
 - Score 1395/2400
