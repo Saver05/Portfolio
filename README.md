@@ -1,3 +1,10 @@
+# List of all certifications, both official and unofficial.
+
+### All certifications that give certification in photo or document are attached.
+
+- SANS GFACT
+# List of all completed hackthebox paths and boxes:
+
 # List of all competitions i've competed in with placement and score report if available
 
 ## NCL CyberSEED 2024 (Team Leader)
@@ -21,12 +28,6 @@
 - Score 1255/3500
 - Placement 12/96
 
-# List of all certifications both offical and unoffical.
-
-### All certifications that give certification in photo or document are attached.
-
-- SANS GFACT
-# List of all completed hackthebox paths and boxes:
 ### Write up attached for boxes inside folder (work in progress)
 
 ### Academy 
