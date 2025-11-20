@@ -3,9 +3,9 @@
 ### All certifications that give certification in photo or document are attached.
 
 - SANS GFACT
-# List of all completed hackthebox paths and boxes:
+- Comptia A+, Network+, Security+
 
-# List of all competitions i've competed in with placement and score report if available
+# List of all competitions I've competed in with placement and score report if available
 
 ## NCL CyberSEED 2024 (Team Leader)
 - Score 1395/2400
@@ -28,6 +28,7 @@
 - Score 1255/3500
 - Placement 12/96
 
+# List of all completed hackthebox paths and boxes:
 ### Write up attached for boxes inside folder (work in progress)
 
 ### Academy 
